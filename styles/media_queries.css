@@ -1,5 +1,77 @@
 @media screen and (min-width: 0px) and (max-width: 350px) {
+.branding{
+    margin-top: 0px;
+    
+}    
+.letterform-containter{
+      height: 0vh;
+    margin-top: 220px;
+}  
+#e{
+    width: 113%;
+    margin-left: -20px;
+}
+#x{
+     display: none;
+}
+#p{
+     display: none;
+}
+#o{
+     display: none;
+}
 
+#s{
+     display: none;
+}
+
+#u{
+     display: none;
+}
+#r{
+     display: none;
+}
+
+#e2{
+     display: none;
+} 
+
+#e_x5F_1{
+    opacity: 1;
+}
+#e_x5F_2{
+    opacity: 1;
+}
+#e_x5F_3{
+    opacity: 1;
+}
+#e_x5F_4{
+    opacity: 1;
+}
+#e_x5F_5{
+    opacity: 1;
+}
+#e_x5F_6{
+    opacity: 1;
+}
+#e_x5F_7{
+    opacity: 1;
+}
+#e_x5F_8{
+    opacity: 1;
+}
+#e_x5F_9{
+    opacity: 1;
+}
+#e_x5F_10{
+    opacity: 1;
+}
+#e_x5F_11{
+    opacity: 1;
+}
+#e_x5F_12{
+    opacity: 1;
+}  
 .menu-header{
     width: calc(100%);
     top: 0;
@@ -33,7 +105,7 @@
 .indent-big2{
     clear: both;
     position: absolute;
-    margin-left: 70px;
+    left: 70px;
 } 
 .menu-letter {
     position: fixed;
@@ -237,12 +309,6 @@ p {
     width: 100%;
 }
   
-.image-credit{
-    float: left;
-    position: relative;
-    width: 250px;
-    left: 50px;
-}
 .profile-name{
     width: 280px;
     left: 15px;
@@ -255,10 +321,12 @@ p {
 .social-links{
     margin-left: 90px;
     margin-top: -25px;
+    width: 220px;
 }
 .school{
     margin-top: 100px;
     margin-left: 90px;
+    width: 220px;
 }  
   
 .school-section-header2 span{
@@ -534,14 +602,14 @@ p {
 }  
 .images-5{
     left: 5%;
-    margin-bottom: 5px;
+    margin-bottom: 0px;
     width: calc(95%);
 }  
 .images-51{
     top: -40px;
     left: 0%;
     margin-bottom: 20px;
-    margin-bottom: 5px;
+    margin-bottom: 0px;
     width: calc(100%);
 }      
 .images-4{
@@ -560,9 +628,13 @@ p {
 .image-credit{
     left: 50px;
     width: 250px;
-    margin-top: 2px;
+    margin-top: 3px;
 }
-    
+.image-credit-6{
+    margin-top: 3px;
+    width: 260px;
+    left: 15px;
+}  
 .landing-about-section{
     padding-bottom: 0px;
     
@@ -681,10 +753,10 @@ p {
 .about-image-credit4{
     left: 90px;
     width: 190px;
-    margin-top: 1px;
+    margin-top: 3px;
 } 
 .about-image-credit3{
-    margin-top: 2px;
+    margin-top: 3px;
     width: 250px;
     left: 50px;
     padding-bottom: 35px;
@@ -692,7 +764,7 @@ p {
 .about-image-credit{
     width: 200px;
     left: 50px;
-    margin-top: 2px;
+    margin-top: 3px;
 } 
 
 .Contributors-section-header{
@@ -712,10 +784,6 @@ p {
     padding-bottom: 25px;
 }  
     
-
-.branding{
-    margin-top: 400px;
-}
 .image-credit-homepage{
     left: 75px;
     width: 300px;
@@ -878,13 +946,14 @@ input[type=text] {
 .wayfinding-image-credit{
     left: 73px;
     width: 210px;
-    margin-top: 5px;
+    margin-top: 3px;
     clear: both;
 }    
 .wayfinding-image-credit2{
     left: 90px;
     width: 200px;
     clear: both;
+    margin-top: 3px;
 }     
 .wrapper{
     width: 100%;
@@ -892,7 +961,9 @@ input[type=text] {
 .student-list-rule{
     width: 100%;
 }
-
+.wayfinding-image-credit{
+    display: none;
+} 
 .student-list-rule2{
     width: 100%;
 }
@@ -906,6 +977,79 @@ input[type=text] {
 }
 
 @media screen and (min-width: 351px) and (max-width: 412px) {
+.branding{
+    margin-top: 0px;
+    
+}    
+.letterform-containter{
+      height: 0vh;
+    margin-top: 260px;
+}  
+#e{
+    width: 113%;
+    margin-left: -25px;
+}
+#x{
+     display: none;
+}
+#p{
+     display: none;
+}
+#o{
+     display: none;
+}
+
+#s{
+     display: none;
+}
+
+#u{
+     display: none;
+}
+#r{
+     display: none;
+}
+
+#e2{
+     display: none;
+} 
+
+#e_x5F_1{
+    opacity: 1;
+}
+#e_x5F_2{
+    opacity: 1;
+}
+#e_x5F_3{
+    opacity: 1;
+}
+#e_x5F_4{
+    opacity: 1;
+}
+#e_x5F_5{
+    opacity: 1;
+}
+#e_x5F_6{
+    opacity: 1;
+}
+#e_x5F_7{
+    opacity: 1;
+}
+#e_x5F_8{
+    opacity: 1;
+}
+#e_x5F_9{
+    opacity: 1;
+}
+#e_x5F_10{
+    opacity: 1;
+}
+#e_x5F_11{
+    opacity: 1;
+}
+#e_x5F_12{
+    opacity: 1;
+}    
     
 .menu-header{
     width: calc(100%);
@@ -940,7 +1084,7 @@ input[type=text] {
 .indent-big2{
     clear: both;
     position: absolute;
-    margin-left: 85px;
+    left: 85px;
 } 
 .menu-letter {
     position: fixed;
@@ -1153,6 +1297,7 @@ p {
     position: relative;
     width: 300px;
     left: 50px;
+    margin-top: 3px;
 }
 .profile-name{
     width: 350px;
@@ -1166,10 +1311,12 @@ p {
 .social-links{
     margin-left: 154px;
     margin-top: -25px;
+    width: 210px;
 }
 .school{
     margin-top: 100px;
     margin-left: 154px;
+    width: 210px;
 } 
     
 .landing-info-section{
@@ -1384,7 +1531,7 @@ p {
 }  
 .images-5{
     left: 5%;
-    margin-bottom: 5px;
+    margin-bottom: 0px;
     width: calc(95%);
 }  
 .images-51{
@@ -1409,9 +1556,12 @@ p {
 } 
 .image-credit{
     left: 50px;
-    width: 335px;
+    width: 290px;
 }
-    
+.image-credit-6{
+    margin-top: 3px;
+    width: 260px;
+}  
 .landing-about-section{
     padding-bottom: 0px;
     
@@ -1526,14 +1676,22 @@ p {
     margin-left: 0px;
     width: 300px;
 } 
+.about-image-credit3{
+    margin-top: 3px;
+    width: 250px;
+    left: 50px;
+    padding-bottom: 35px;
+}    
 .about-image-credit4{
     left: 153px;
     width: 190px;
+    margin-top: 3px;
 } 
 
 .about-image-credit{
     width: 250px;
     left: 50px;
+    margin-top: 3px;
 } 
 
 .Contributors-section-header{
@@ -1554,9 +1712,6 @@ p {
     padding-bottom: 25px;
 }   
 
-.branding{
-    margin-top: 400px;
-}
 .image-credit-homepage{
     left: 75px;
     width: 300px;
@@ -1729,7 +1884,9 @@ input[type=text] {
 .student-list-rule{
     width: 100%;
 }
-
+.wayfinding-image-credit{
+    display: none;
+} 
 .student-list-rule2{
     width: 100%;
 }
@@ -1744,6 +1901,80 @@ input[type=text] {
 
 @media screen and (min-width: 413px) and (max-width: 800px) {    
 
+.branding{
+    margin-top: 0px;
+    
+}    
+.letterform-containter{
+      height: 0vh;
+    margin-top: 320px;
+}  
+#e{
+    width: 108%;
+    margin-left: -16px;
+}
+#x{
+     display: none;
+}
+#p{
+     display: none;
+}
+#o{
+     display: none;
+}
+
+#s{
+     display: none;
+}
+
+#u{
+     display: none;
+}
+#r{
+     display: none;
+}
+
+#e2{
+     display: none;
+} 
+
+#e_x5F_1{
+    opacity: 1;
+}
+#e_x5F_2{
+    opacity: 1;
+}
+#e_x5F_3{
+    opacity: 1;
+}
+#e_x5F_4{
+    opacity: 1;
+}
+#e_x5F_5{
+    opacity: 1;
+}
+#e_x5F_6{
+    opacity: 1;
+}
+#e_x5F_7{
+    opacity: 1;
+}
+#e_x5F_8{
+    opacity: 1;
+}
+#e_x5F_9{
+    opacity: 1;
+}
+#e_x5F_10{
+    opacity: 1;
+}
+#e_x5F_11{
+    opacity: 1;
+}
+#e_x5F_12{
+    opacity: 1;
+}    
+  
 .menu-header{
     width: calc(100%);
     top: 0;
@@ -1777,7 +2008,7 @@ input[type=text] {
 .indent-big2{
     clear: both;
     position: absolute;
-    margin-left: 95px;
+    left: 95px;
 } 
 .menu-letter {
     position: fixed;
@@ -1891,8 +2122,8 @@ h7 {
 }    
 h8 {
     letter-spacing: -2.75px;
-    font-size: 55px;
-    line-height: 57px;
+    font-size: 60px;
+    line-height: 60px;
 }    
 h9 {
     font-size: 16px;
@@ -1989,6 +2220,7 @@ p {
     position: relative;
     width: 300px;
     left: 50px;
+    margin-top: 3px;
 }
 .profile-name{
     width: 400px;
@@ -2002,10 +2234,12 @@ p {
 .social-links{
     margin-left: 187px;
     margin-top: -25px;
+    width: 220px;
 }
 .school{
     margin-top: 100px;
     margin-left: 187px;
+    width: 220px;
 }   
 .landing-info-section{
     padding-bottom: 100px;
@@ -2221,7 +2455,7 @@ p {
 }  
 .images-5{
     left: 5%;
-    margin-bottom: 5px;
+    margin-bottom: 0px;
     width: calc(95%);
 }  
 .images-51{
@@ -2247,6 +2481,7 @@ p {
 .image-credit{
     left: 50px;
     width: 335px;
+    margin-top: 3px;
 }
     
 .landing-about-section{
@@ -2367,11 +2602,18 @@ p {
 .about-image-credit4{
     left: 186px;
     width: 190px;
+    margin-top: 3px;
 } 
-
+.about-image-credit3{
+    margin-top: 3px;
+}     
+.image-credit-6{
+    margin-top: 3px;
+    }
 .about-image-credit{
     width: 250px;
     left: 50px;
+    margin-top: 3px;
 } 
 
 .Contributors-section-header{
@@ -2398,9 +2640,7 @@ p {
 .outline-invert:hover {
    -webkit-text-stroke-width: 1px;
     }
-.branding{
-    margin-top: 400px;
-}
+
 .image-credit-homepage{
     left: 75px;
     width: 300px;
@@ -2429,7 +2669,7 @@ p {
 input[type=text] {
     background-color: rgba(255, 59, 0, 0);
     width: 195px;
-    margin-left: 22px;
+    margin-left: 24px;
     margin-top: 0px;
     outline: none;
     padding-bottom: 2px;
@@ -2443,7 +2683,7 @@ input[type=text] {
     z-index: 11;
     float: left;
     clear: both;
-    margin-top: 0px;
+    margin-top: -5px;
     opacity: 1;
     background-color: rgba(255, 59, 0, 0);
     padding-bottom: 25px;
@@ -2584,11 +2824,59 @@ input[type=text] {
 .sub-menu-rule{
     width: 100%;
 }      
-    
+.wayfinding-image-credit{
+    display: none;
+} 
 }
 
 @media screen and (min-width: 801px) and (max-width: 1099px) {
 
+.branding{
+    margin-top: 150px;
+    
+}    
+.letterform-containter{
+     display: none;
+}    
+#e{
+    width: 20%;
+    margin-left: 25px;
+}
+#x{
+    width: 20%;
+    margin-left: 70px;
+}
+#p{
+    width: 20%;
+    margin-left: 40px;
+}
+#o{
+    width: 20%;
+    margin-left: 40px;
+}
+
+#s{
+    width: 20%;
+    margin-top: 100px;
+    margin-left: 5px;
+}
+
+#u{
+    width: 20%;
+    margin-left: 95px;
+    margin-top: 100px;
+}
+#r{
+    width: 20%;
+    margin-left: 100px;
+    margin-top: 90px;
+}
+
+#e2{
+    width: 20%;
+    margin-top: 100px;
+    margin-left: -16px;
+} 
 .button_container2 {
     font-size: 100px;
     line-height: 80px;
@@ -2707,13 +2995,15 @@ p {
   
 .profile-name{
     width: 750px;
+    width: 750px;
 }
 .profile-degree{
     width: 750px;
 }   
 .social-links{
-    margin-left: -180px;
+    margin-left: -200px;
     margin-top: 45px;
+    width: 200px;
 }
 .school{
     margin-left: 100px;
@@ -3003,21 +3293,38 @@ h8 {
     
 .student-filter div:nth-child(7) {
     float: left;
-    margin-left: 195px;
-    margin-top: -75px;  
+    clear: both;
+    margin-left: 205px;   
 }    
     
 .student-filter div:nth-child(8) {
     float: left;
-    margin-top: -50px;  
-    margin-left: 195px;
+    clear: both;
+    margin-left: 205px;   
 } 
     
 .student-filter div:nth-child(9) {
     float: left;
-    margin-left: 195px;
-    margin-top: -25px;  
-}     
+    margin-left: 265px;
+    margin-top: -129px;  
+}   
+    
+.student-filter div:nth-child(10) {
+    float: left;
+    margin-left: 265px;
+    margin-top: -104px;  
+} 
+    
+.student-filter div:nth-child(11) {
+    float: left;
+    margin-left: 265px;
+    margin-top: -78px; 
+}        
+.student-filter div:nth-child(12) {
+    float: left;
+    margin-left: 265px;
+    margin-top: -52px; 
+}       
 
 .filter-all:hover{
     border: 2px solid #000;
@@ -3174,7 +3481,45 @@ input[type=text] {
 }
 @media screen and (min-width: 1100px) and (max-width: 1300px) {
 
+#e{
+    width: 20%;
+    margin-left: 25px;
+}
+#x{
+    width: 20%;
+    margin-left: 70px;
+}
+#p{
+    width: 20%;
+    margin-left: 40px;
+}
+#o{
+    width: 20%;
+    margin-left: 40px;
+}
 
+#s{
+    width: 20%;
+    margin-top: 100px;
+    margin-left: 5px;
+}
+
+#u{
+    width: 20%;
+    margin-left: 95px;
+    margin-top: 100px;
+}
+#r{
+    width: 20%;
+    margin-left: 100px;
+    margin-top: 90px;
+}
+
+#e2{
+    width: 20%;
+    margin-top: 100px;
+    margin-left: -16px;
+}    
 .button_container2 {
     font-size: 100px;
     line-height: 80px;
@@ -3311,7 +3656,11 @@ h8 {
     position: relative;
     width: calc(70%);
 }
+.wayfinding-block12{
+    left: 50px;
+}
     
+     
 .profile-location{
     left: -100px;
     float: right;
@@ -3464,6 +3813,47 @@ h8 {
     
 }
 @media screen and (min-width: 1300px) and (max-width: 1390px) {   
+    
+
+#e{
+    width: 20%;
+    margin-left: 25px;
+}
+#x{
+    width: 20%;
+    margin-left: 70px;
+}
+#p{
+    width: 20%;
+    margin-left: 40px;
+}
+#o{
+    width: 20%;
+    margin-left: 40px;
+}
+
+#s{
+    width: 20%;
+    margin-top: 100px;
+    margin-left: 5px;
+}
+
+#u{
+    width: 20%;
+    margin-left: 95px;
+    margin-top: 100px;
+}
+#r{
+    width: 20%;
+    margin-left: 100px;
+    margin-top: 90px;
+}
+
+#e2{
+    width: 20%;
+    margin-top: 100px;
+    margin-left: -16px;
+}    
 .button_container2 {
     top: 17px;
     } 
@@ -3482,7 +3872,7 @@ h8 {
     position: relative;
     width: calc(70%);
 }
-    
+ 
 .profile-location{
     left: -100px;
     float: right;
@@ -3499,57 +3889,10 @@ h8 {
 }
 .closing-date{
     position: relative;
-    left: -50px;
+    left: -80px;
     float: right;
 }   
 
-.menu-letter2 {
-    position: fixed;
-    left: 120px;
-    opacity: 1;
-    z-index: 110;
-    width: 400px;
-    top: 115px;
-    text-align: right;
-    }
-
-.menu-letter3 {
-    position: fixed;
-    left: 730px;
-    opacity: 1;
-    z-index: 110;
-    width: 400px;
-    top: 115px;
-    text-align: left;
-    }
-.menu-letter4 {
-    left: 320px;
-    width: 400px;
-    top: 555px;
-    }
-
-.menu-letter5 {
-    left: 320px;
-    top: 662px;
-    }
-.sub-menu3{
-    left: 735px;
-}
-h1 {
-    letter-spacing: -4.5px;
-    font-size: 110px;
-    line-height: 95px;
-}   
-h12 {
-    letter-spacing: -4.5px;
-    font-size: 110px;
-    line-height: 100px;
-}  
-h8 {
-    letter-spacing: -6px;
-    font-size: 110px;
-    line-height: 100px;
-}  
 .images-11{
     width: calc(860px);
 }
@@ -3607,11 +3950,22 @@ h8 {
 .wrapper{
     width: 100%;
 } 
+
+.social-links{
+    position: relative;
+    float: left;
+    margin-left: 50px;
+    width: 200px;
+}
 }
 
 
 
 @media screen and (min-width: 1441px) and (max-width: 1599px) {
+.letterform-containter{
+    margin-top: 220px;
+    height: 700px;
+}    
 .sub-menu-rule{
     left: -10000px;
     width: 1000000px;
@@ -3641,17 +3995,63 @@ h8 {
 }
 
 @media screen and (min-width: 1600px) and (max-width: 1899px) {
+.letterform-containter{
+    margin-top: 250px;
+    height: 700px;
+}      
+
+#e{
+    width: 320px;
+    margin-left: -55px;
+}
+#x{
+    width: 320px;
+    margin-left: 120px;
+}
+#p{
+    width: 320px;
+    margin-left: 50px;
+}
+#o{
+    width: 320px;
+    margin-left: 40px;
+    margin-top: 0px;
+}
+
+#s{
+    width: 320px;
+    margin-top: 120px;
+    margin-left: -44px;
+}
+
+#u{
+    width: 320px;
+    margin-left: 116px;
+    margin-top: 120px;
+}
+#r{
+    width: 320px;
+    margin-left: 97px;
+    margin-top: 120px;
+}
+
+#e2{
+    width: 320px;
+    margin-top: 120px;
+    margin-left: -19px;
+}    
 .sub-menu-rule{
     left: -10000px;
     width: 1000000px;
 }
 .menu-header{
+    width: 100vw;
     overflow: visible;
     } 
 .main {
+    width: 100vw;
     overflow: visible;
-} 
-
+}
 .images-4{
     left: -100px;
     width: calc(1600px);
@@ -3742,14 +4142,68 @@ h8 {
 }     
 }
 @media screen and (min-width: 1900px) and (max-width: 2549px) {
+.branding{
+    margin-top: -52px;
+    z-index: -10;
+    left: -100px;
+    position: relative;
+}    
+.letterform-containter{
+    margin-top: 250px;
+    height: 900px;
+    width: 1700px;
+}      
+
+#e{
+    width: 350px;
+    margin-left: -75px;
+}
+#x{
+    width: 350px;
+    margin-left: 160px;
+}
+#p{
+    width: 350px;
+    margin-left: 120px;
+}
+#o{
+    width: 350px;
+    margin-left: 70px;
+    margin-top: 0px;
+}
+
+#s{
+    width: 350px;
+    margin-top: 150px;
+    margin-left: -63px;
+}
+
+#u{
+    width: 350px;
+    margin-left: 155px;
+    margin-top: 150px;
+}
+#r{
+    width: 350px;
+    margin-left: 173px;
+    margin-top: 150px;
+}
+
+#e2{
+    width: 350px;
+    margin-top: 150px;
+    margin-left: 5px;
+}     
 .sub-menu-rule{
     left: -10000px;
     width: 1000000px;
 }
 .menu-header{
+    width: 100vw;
     overflow: visible;
     } 
 .main {
+    width: 100vw;
     overflow: visible;
 }
 .images-4{
@@ -3845,14 +4299,69 @@ h8 {
 }        
 }
 @media screen and (min-width: 2550px) and (max-width: 100440px) {
+    
+.branding{
+    margin-top: -52px;
+    z-index: -10;
+    left: -100px;
+    position: relative;
+}    
+.letterform-containter{
+    margin-top: 250px;
+    height: 900px;
+    width: 1700px;
+}      
+
+#e{
+    width: 350px;
+    margin-left: -75px;
+}
+#x{
+    width: 350px;
+    margin-left: 160px;
+}
+#p{
+    width: 350px;
+    margin-left: 120px;
+}
+#o{
+    width: 350px;
+    margin-left: 70px;
+    margin-top: 0px;
+}
+
+#s{
+    width: 350px;
+    margin-top: 150px;
+    margin-left: -63px;
+}
+
+#u{
+    width: 350px;
+    margin-left: 155px;
+    margin-top: 150px;
+}
+#r{
+    width: 350px;
+    margin-left: 173px;
+    margin-top: 150px;
+}
+
+#e2{
+    width: 350px;
+    margin-top: 150px;
+    margin-left: 5px;
+}        
 .sub-menu-rule{
     left: -10000px;
     width: 1000000px;
 }
 .menu-header{
+    width: 100vw;
     overflow: visible;
     } 
 .main {
+    width: 100vw;
     overflow: visible;
 }
 .images-4{

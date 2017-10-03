@@ -169,14 +169,14 @@ html {
 h1 {
     font-weight: 700;
     letter-spacing: -5px;
-    font-size: 120px;
-    line-height: 100px;
+    font-size: 110px;
+    line-height: 90px;
 }
 
 h2 {
     font-weight: 700;
     letter-spacing: -5px;
-    font-size: 120px;
+    font-size: 110px;
     line-height: 97px;
 }
 
@@ -218,8 +218,8 @@ h7 {
 h8 {
     font-weight: 500;
     letter-spacing: -7px;
-    font-size: 120px;
-    line-height: 100px;
+    font-size: 110px;
+    line-height: 90px;
 }
  
 h9 {
@@ -250,8 +250,8 @@ h11 {
 h12 {
     font-weight: 700;
     letter-spacing: -5px;
-    font-size: 120px;
-    line-height: 110px;
+    font-size: 110px;
+    line-height: 105px;
 }
 
 h13 {
@@ -261,6 +261,17 @@ h13 {
     line-height: 38px;
 }
 
+h14 {
+    font-weight: 700;
+    letter-spacing: -1.5px;
+    font-size: 40px;
+    line-height: 40px;
+}
+
+h14 span {
+    font-weight: 500;
+    letter-spacing: -2px;
+}
 p {
     font-size: 18px;
     line-height: 23px;
@@ -304,19 +315,990 @@ p:first-of-type {
     }
 
 .branding{
-    margin-top: 50px;
+    margin-top: -52px;
     z-index: -10;
     left: 0px;
     position: relative;
-    width: calc(100% - 00px);
+    width: calc(100% - 0px);
     display: block;
     background: rgb(255, 59, 0);
 }
-
-.branding img{
-    width: 100%;
-    mix-blend-mode: multiply;
+.letterform-containter{
+    margin-top: 180px;
+    height: 600px;
 }
+#e{
+    width: 300px;
+    cursor: pointer;
+    float: left;
+    margin-left: 25px;
+}
+#x{
+    width: 300px;
+    cursor: pointer;
+    float: left;
+    margin-left: 70px;
+}
+#p{
+    width: 300px;
+    cursor: pointer;
+    float: left;
+    margin-top: 0px;
+    margin-left: 40px;
+}
+#o{
+    width: 300px;
+    cursor: pointer;
+    float: left;
+    margin-left: 40px;
+    margin-top: 0px;
+}
+
+#s{
+    width: 300px;
+    cursor: pointer;
+    float: left;
+    clear: both;
+    margin-top: 100px;
+    margin-left: 5px;
+}
+
+#u{
+    width: 300px;
+    cursor: pointer;
+    float: left;
+    margin-left: 125px;
+    margin-top: 100px;
+}
+#r{
+    width: 300px;
+    cursor: pointer;
+    float: left;
+    margin-left: 55px;
+    margin-top: 100px;
+}
+
+#e2{
+    width: 300px;
+    cursor: pointer;
+    float: left;
+    margin-top: 100px;
+    margin-left: -16px;
+}
+svg:hover .remove{
+    -webkit-animation: cascade 0s;
+    animation: cascade 0s;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    cursor: pointer;
+}
+/*E*/
+#e_x5F_1{
+    -webkit-animation-delay: 40ms;
+    animation-delay: 40ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#e_x5F_2{
+    -webkit-animation-delay: 80ms;
+    animation-delay: 80ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#e_x5F_3{
+    -webkit-animation-delay: 120ms;
+    animation-delay: 120ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#e_x5F_4{
+    -webkit-animation-delay: 160ms;
+    animation-delay: 160ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#e_x5F_5{
+    -webkit-animation-delay: 200ms;
+    animation-delay: 200ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#e_x5F_6{
+    -webkit-animation-delay: 240ms;
+    animation-delay: 240ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#e_x5F_7{
+    -webkit-animation-delay: 280ms;
+    animation-delay: 280ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#e_x5F_8{
+    -webkit-animation-delay: 320ms;
+    animation-delay: 320ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#e_x5F_9{
+    -webkit-animation-delay: 360ms;
+    animation-delay: 360ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#e_x5F_10{
+    -webkit-animation-delay: 400ms;
+    animation-delay: 400ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#e_x5F_11{
+    -webkit-animation-delay: 440ms;
+    animation-delay: 440ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#e_x5F_12{
+    -webkit-animation-delay: 480ms;
+    animation-delay: 480ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+/*X*/
+#x_x5F_1{
+    -webkit-animation-delay: 40ms;
+    animation-delay: 40ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#x_x5F_2{
+    -webkit-animation-delay: 80ms;
+    animation-delay: 80ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#x_x5F_3{
+    -webkit-animation-delay: 120ms;
+    animation-delay: 120ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#x_x5F_4{
+    -webkit-animation-delay: 160ms;
+    animation-delay: 160ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#x_x5F_5{
+    -webkit-animation-delay: 200ms;
+    animation-delay: 200ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#x_x5F_6{
+    -webkit-animation-delay: 240ms;
+    animation-delay: 240ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#x_x5F_7{
+    -webkit-animation-delay: 280ms;
+    animation-delay: 280ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#x_x5F_8{
+    -webkit-animation-delay: 320ms;
+    animation-delay: 320ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#x_x5F_9{
+    -webkit-animation-delay: 360ms;
+    animation-delay: 360ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#x_x5F_10{
+    -webkit-animation-delay: 400ms;
+    animation-delay: 400ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#x_x5F_11{
+    -webkit-animation-delay: 440ms;
+    animation-delay: 440ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#x_x5F_12{
+    -webkit-animation-delay: 480ms;
+    animation-delay: 480ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#x_x5F_13{
+    -webkit-animation-delay: 520ms;
+    animation-delay: 520ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#x_x5F_14{
+    -webkit-animation-delay: 560ms;
+    animation-delay: 560ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#x_x5F_15{
+    -webkit-animation-delay: 600ms;
+    animation-delay: 600ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#x_x5F_16{
+    -webkit-animation-delay: 640ms;
+    animation-delay: 640ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#x_x5F_17{
+    -webkit-animation-delay: 680ms;
+    animation-delay: 680ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#x_x5F_18{
+    -webkit-animation-delay: 720ms;
+    animation-delay: 720ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#x_x5F_19{
+    -webkit-animation-delay: 760ms;
+    animation-delay: 760ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+/*P*/
+#p_x5F_1{
+    -webkit-animation-delay: 40ms;
+    animation-delay: 40ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#p_x5F_2{
+    -webkit-animation-delay: 80ms;
+    animation-delay: 80ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#p_x5F_3{
+    -webkit-animation-delay: 120ms;
+    animation-delay: 120ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#p_x5F_4{
+    -webkit-animation-delay: 160ms;
+    animation-delay: 160ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#p_x5F_5{
+    -webkit-animation-delay: 200ms;
+    animation-delay: 200ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#p_x5F_6{
+    -webkit-animation-delay: 240ms;
+    animation-delay: 240ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#p_x5F_7{
+    -webkit-animation-delay: 280ms;
+    animation-delay: 280ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#p_x5F_8{
+    -webkit-animation-delay: 320ms;
+    animation-delay: 320ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#p_x5F_9{
+    -webkit-animation-delay: 360ms;
+    animation-delay: 360ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#p_x5F_10{
+    -webkit-animation-delay: 400ms;
+    animation-delay: 400ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#p_x5F_11{
+    -webkit-animation-delay: 440ms;
+    animation-delay: 440ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#p_x5F_12{
+    -webkit-animation-delay: 480ms;
+    animation-delay: 480ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#p_x5F_13{
+    -webkit-animation-delay: 520ms;
+    animation-delay: 520ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#p_x5F_14{
+    -webkit-animation-delay: 560ms;
+    animation-delay: 560ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#p_x5F_15{
+    -webkit-animation-delay: 600ms;
+    animation-delay: 600ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#p_x5F_16{
+    -webkit-animation-delay: 640ms;
+    animation-delay: 640ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#p_x5F_17{
+    -webkit-animation-delay: 680ms;
+    animation-delay: 680ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#p_x5F_18{
+    -webkit-animation-delay: 720ms;
+    animation-delay: 720ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#p_x5F_19{
+    -webkit-animation-delay: 760ms;
+    animation-delay: 760ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#p_x5F_20{
+    -webkit-animation-delay: 800ms;
+    animation-delay: 800ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#p_x5F_21{
+    -webkit-animation-delay: 840ms;
+    animation-delay: 840ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+/*O*/
+#o_x5F_1{
+    -webkit-animation-delay: 40ms;
+    animation-delay: 40ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#o_x5F_2{
+    -webkit-animation-delay: 80ms;
+    animation-delay: 80ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#o_x5F_3{
+    -webkit-animation-delay: 120ms;
+    animation-delay: 120ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#o_x5F_4{
+    -webkit-animation-delay: 160ms;
+    animation-delay: 160ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#o_x5F_5{
+    -webkit-animation-delay: 200ms;
+    animation-delay: 200ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#o_x5F_6{
+    -webkit-animation-delay: 240ms;
+    animation-delay: 240ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#o_x5F_7{
+    -webkit-animation-delay: 280ms;
+    animation-delay: 280ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#o_x5F_8{
+    -webkit-animation-delay: 320ms;
+    animation-delay: 320ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#o_x5F_9{
+    -webkit-animation-delay: 360ms;
+    animation-delay: 360ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#o_x5F_10{
+    -webkit-animation-delay: 400ms;
+    animation-delay: 400ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#o_x5F_11{
+    -webkit-animation-delay: 440ms;
+    animation-delay: 440ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#o_x5F_12{
+    -webkit-animation-delay: 480ms;
+    animation-delay: 480ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#o_x5F_13{
+    -webkit-animation-delay: 520ms;
+    animation-delay: 520ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#o_x5F_14{
+    -webkit-animation-delay: 560ms;
+    animation-delay: 560ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#o_x5F_15{
+    -webkit-animation-delay: 600ms;
+    animation-delay: 600ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#o_x5F_16{
+    -webkit-animation-delay: 640ms;
+    animation-delay: 640ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#o_x5F_17{
+    -webkit-animation-delay: 680ms;
+    animation-delay: 680ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#o_x5F_18{
+    -webkit-animation-delay: 720ms;
+    animation-delay: 720ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#o_x5F_19{
+    -webkit-animation-delay: 760ms;
+    animation-delay: 760ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+/*S*/
+#s_x5F_1{
+    -webkit-animation-delay: 40ms;
+    animation-delay: 40ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#s_x5F_2{
+    -webkit-animation-delay: 80ms;
+    animation-delay: 80ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#s_x5F_3{
+    -webkit-animation-delay: 120ms;
+    animation-delay: 120ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#s_x5F_4{
+    -webkit-animation-delay: 160ms;
+    animation-delay: 160ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#s_x5F_5{
+    -webkit-animation-delay: 200ms;
+    animation-delay: 200ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#s_x5F_6{
+    -webkit-animation-delay: 240ms;
+    animation-delay: 240ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#s_x5F_7{
+    -webkit-animation-delay: 280ms;
+    animation-delay: 280ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#s_x5F_8{
+    -webkit-animation-delay: 320ms;
+    animation-delay: 320ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#s_x5F_9{
+    -webkit-animation-delay: 360ms;
+    animation-delay: 360ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#s_x5F_10{
+    -webkit-animation-delay: 400ms;
+    animation-delay: 400ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#s_x5F_11{
+    -webkit-animation-delay: 440ms;
+    animation-delay: 440ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#s_x5F_12{
+    -webkit-animation-delay: 480ms;
+    animation-delay: 480ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#s_x5F_13{
+    -webkit-animation-delay: 520ms;
+    animation-delay: 520ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#s_x5F_14{
+    -webkit-animation-delay: 560ms;
+    animation-delay: 560ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#s_x5F_15{
+    -webkit-animation-delay: 600ms;
+    animation-delay: 600ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+/*U*/
+#u_x5F_1{
+    -webkit-animation-delay: 40ms;
+    animation-delay: 40ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#u_x5F_2{
+    -webkit-animation-delay: 80ms;
+    animation-delay: 80ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#u_x5F_3{
+    -webkit-animation-delay: 120ms;
+    animation-delay: 120ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#u_x5F_4{
+    -webkit-animation-delay: 160ms;
+    animation-delay: 160ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#u_x5F_5{
+    -webkit-animation-delay: 200ms;
+    animation-delay: 200ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#u_x5F_6{
+    -webkit-animation-delay: 240ms;
+    animation-delay: 240ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#u_x5F_7{
+    -webkit-animation-delay: 280ms;
+    animation-delay: 280ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#u_x5F_8{
+    -webkit-animation-delay: 320ms;
+    animation-delay: 320ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#u_x5F_9{
+    -webkit-animation-delay: 360ms;
+    animation-delay: 360ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#u_x5F_10{
+    -webkit-animation-delay: 400ms;
+    animation-delay: 400ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#u_x5F_11{
+    -webkit-animation-delay: 440ms;
+    animation-delay: 440ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#u_x5F_12{
+    -webkit-animation-delay: 480ms;
+    animation-delay: 480ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#u_x5F_13{
+    -webkit-animation-delay: 520ms;
+    animation-delay: 520ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#u_x5F_14{
+    -webkit-animation-delay: 560ms;
+    animation-delay: 560ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#u_x5F_15{
+    -webkit-animation-delay: 600ms;
+    animation-delay: 600ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#u_x5F_16{
+    -webkit-animation-delay: 640ms;
+    animation-delay: 640ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+/*R*/
+#r_x5F_2{
+    -webkit-animation-delay: 40ms;
+    animation-delay: 40ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#r_x5F_3{
+    -webkit-animation-delay: 80ms;
+    animation-delay: 80ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#r_x5F_4{
+    -webkit-animation-delay: 120ms;
+    animation-delay: 120ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#r_x5F_5{
+    -webkit-animation-delay: 160ms;
+    animation-delay: 160ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#r_x5F_6{
+    -webkit-animation-delay: 200ms;
+    animation-delay: 200ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#r_x5F_7{
+    -webkit-animation-delay: 240ms;
+    animation-delay: 240ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#r_x5F_8{
+    -webkit-animation-delay: 280ms;
+    animation-delay: 280ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#r_x5F_9{
+    -webkit-animation-delay: 320ms;
+    animation-delay: 320ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#r_x5F_10{
+    -webkit-animation-delay: 360ms;
+    animation-delay: 360ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#r_x5F_11{
+    -webkit-animation-delay: 400ms;
+    animation-delay: 400ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#r_x5F_12{
+    -webkit-animation-delay: 440ms;
+    animation-delay: 440ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#r_x5F_13{
+    -webkit-animation-delay: 480ms;
+    animation-delay: 480ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#r_x5F_14{
+    -webkit-animation-delay: 520ms;
+    animation-delay: 520ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#r_x5F_15{
+    -webkit-animation-delay: 560ms;
+    animation-delay: 560ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#r_x5F_16{
+    -webkit-animation-delay: 600ms;
+    animation-delay: 600ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#r_x5F_17{
+    -webkit-animation-delay: 640ms;
+    animation-delay: 640ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#r_x5F_18{
+    -webkit-animation-delay: 680ms;
+    animation-delay: 680ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#r_x5F_19{
+    -webkit-animation-delay: 720ms;
+    animation-delay: 720ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#r_x5F_20{
+    -webkit-animation-delay: 760ms;
+    animation-delay: 760ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#r_x5F_21{
+    -webkit-animation-delay: 800ms;
+    animation-delay: 800ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#r_x5F_22{
+    -webkit-animation-delay: 840ms;
+    animation-delay: 840ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#r_x5F_23{
+    -webkit-animation-delay: 920ms;
+    animation-delay: 920ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+#r_x5F_24{
+    -webkit-animation-delay: 960ms;
+    animation-delay: 960ms;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    opacity: 0;
+}
+
+@-webkit-keyframes cascade{
+    0%{
+        opacity: 1;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+@keyframes cascade{
+    0%{
+        opacity: 1;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+
+
+
+
+
+
+
+
 .images{
     margin-top: 300px;
     z-index: -10;
@@ -406,9 +1388,10 @@ p:first-of-type {
     float: left;
     clear: both;
     position: relative;
-    margin-top: 0px;
-    width: 450px;
-    left: 100px;
+    top: 5px;
+    width: 550px;
+    left: 50px;
+    padding-bottom: 50px;
 }
 
 .image-credit{
@@ -622,7 +1605,7 @@ p:first-of-type {
     font-size: 110px;
     line-height: 100px;
     position: relative;
-    top: 25px;
+    top: 15px;
     z-index: 999;
     left: calc(100vw - 110px);
     height: 20px;
@@ -714,7 +1697,7 @@ p:first-of-type {
     opacity: 1;
     z-index: 110;
     width: 400px;
-    top: 123px;
+    top: 113px;
     text-align: right;
     }
 
@@ -724,7 +1707,7 @@ p:first-of-type {
     opacity: 1;
     z-index: 110;
     width: 400px;
-    top: 123px;
+    top: 113px;
     text-align: left;
     }
 
@@ -734,7 +1717,7 @@ p:first-of-type {
     opacity: 1;
     z-index: 110;
     width: 400px;
-    top: 565px;
+    top: 570px;
     }
 
 .menu-letter5 {
@@ -743,15 +1726,14 @@ p:first-of-type {
     opacity: 1;
     z-index: 110;
     width: 400px;
-    top: 680px;
+    top: 675px;
     }
 
 .sub-menu-rule{
     position: fixed;
-    left: 0px;
     z-index: 110;
     width: 1440px;
-    top: 350px;
+    top: 320px;
     border: 2px solid #000;
     border-width: 0 0 2px;
 }
@@ -761,7 +1743,7 @@ p:first-of-type {
     left: 50px;
     z-index: 110;
     width: 340px;
-    top: 360px;
+    top: 330px;
     display: inline-block;
 }
 
@@ -779,21 +1761,21 @@ p:first-of-type {
     left: 880px;
     z-index: 110;
     width: 340px;
-    top: 360px;
+    top: 330px;
     display: inline-block;
 }
 
 .logo-menu img{
     height: 30px;
-    left: 420px;
-    top: 360px;
+    left: 417px;
+    top: 330px;
     position: fixed;
 }
 
 .logo-menu2 img{
     height: 35px;
     left: 520px;
-    top: 358px;
+    top: 328px;
     position: fixed;
 }
 
@@ -848,7 +1830,7 @@ p:first-of-type {
 
 .closing-date{
     position: relative;
-    left: 570px;
+    left: 610px;
     float: left;
 }
 
@@ -904,6 +1886,10 @@ p:first-of-type {
     padding-bottom: 1px;
     float: left;
     clear: both;
+}
+
+.graduates-header span{
+    margin-left: 2px;
 }
 
 .graduates-subheader{
@@ -1288,7 +2274,6 @@ p:first-of-type {
     border: 2px solid #000;
     border-width: 0 0 2px;
     cursor: pointer;
-
     }
 
 .anchor-class3:hover {
@@ -1737,7 +2722,7 @@ input[type=text]:focus {
     margin-bottom: 0;
     -webkit-column-gap: 0;
     column-gap: 0;
-    width: 600px;
+    width: 642px;
     display: block;
     float: left;
     list-style-type: disc;
@@ -1967,7 +2952,7 @@ input[type=text]:focus {
 
 .footer-sub-menu3{
     position: relative;
-    left: 620px;
+    left: 612px;
     z-index: 110;
     line-height: 16px;
     width: 340px;
@@ -2308,7 +3293,7 @@ input[type=text]:focus {
 }
 
 .wayfinding-block12{
-    left: 50px;
+    left: 150px;
     float: left;
     margin-top: 0px;
     position: relative;
@@ -2372,7 +3357,7 @@ input[type=text]:focus {
 }
 
 .wayfinding-title span{
-    margin-left: 3px;
+    margin-left: 2px;
 }
 
 .wayfinding-subtitle{
@@ -2816,6 +3801,7 @@ input[type=text]:focus {
 .school{
     margin-left: 150px;
     margin-top: 25px;
+    width: 220px;
     float: left;
     position: relative;
 }
@@ -2854,6 +3840,7 @@ input[type=text]:focus {
     position: relative;
     float: right;
     right: 150px;
+    width: 220px;
 }
 
 .links-section-header2{
@@ -3100,7 +4087,7 @@ input[type=text]:focus {
     width: 1300px;
 }
 .about-header span{
-    margin-left: 3px;
+    margin-left: 2px;
 }
 .about-subheader{
     left: 50px;

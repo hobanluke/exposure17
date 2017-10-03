@@ -168,15 +168,15 @@ html {
 h1 {
     font-weight: 700;
     letter-spacing: -5px;
-    font-size: 120px;
-    line-height: 100px;
+    font-size: 110px;
+    line-height: 90px;
 }
 
 h2 {
     font-weight: 700;
-    letter-spacing: -5px;
-    font-size: 120px;
-    line-height: 120px;
+    letter-spacing: -4.5px;
+    font-size: 110px;
+    line-height: 110px;
 }
 
 h3 {
@@ -216,9 +216,9 @@ h7 {
  
 h8 {
     font-weight: 500;
-    letter-spacing: -6px;
-    font-size: 120px;
-    line-height: 120px;
+    letter-spacing: -5.7px;
+    font-size: 110px;
+    line-height: 110px;
 }
  
 h9 {
@@ -234,8 +234,8 @@ h9 {
 h10 {
     font-weight: 500;
     letter-spacing: -8px;
-    font-size: 120px;
-    line-height: 100px;
+    font-size: 110px;
+    line-height: 95px;
 }
 
 p {
@@ -497,7 +497,7 @@ p:first-of-type {
     font-size: 110px;
     line-height: 100px;
     position: relative;
-    top: 25px;
+    top: 15px;
     z-index: 999;
     left: calc(100vw - 110px);
     height: 20px;
@@ -557,7 +557,7 @@ p:first-of-type {
     opacity: 1;
     z-index: 110;
     width: 400px;
-    top: 123px;
+    top: 113px;
     text-align: right;
     }
 
@@ -567,7 +567,7 @@ p:first-of-type {
     opacity: 1;
     z-index: 110;
     width: 400px;
-    top: 123px;
+    top: 113px;
     text-align: left;
     }
 
@@ -577,7 +577,7 @@ p:first-of-type {
     opacity: 1;
     z-index: 110;
     width: 400px;
-    top: 555px;
+    top: 570px;
     }
 
 .menu-letter5 {
@@ -593,7 +593,7 @@ p:first-of-type {
     position: fixed;
     z-index: 110;
     width: 1440px;
-    top: 350px;
+    top: 320px;
     border: 2px solid #000;
     border-width: 0 0 2px;
 }
@@ -603,7 +603,7 @@ p:first-of-type {
     left: 50px;
     z-index: 110;
     width: 340px;
-    top: 360px;
+    top: 330px;
     display: inline-block;
 }
 
@@ -621,21 +621,21 @@ p:first-of-type {
     left: 880px;
     z-index: 110;
     width: 340px;
-    top: 360px;
+    top: 330px;
     display: inline-block;
 }
 
 .logo-menu img{
     height: 30px;
-    left: 420px;
-    top: 360px;
+    left: 417px;
+    top: 330px;
     position: fixed;
 }
 
 .logo-menu2 img{
     height: 35px;
     left: 520px;
-    top: 358px;
+    top: 328px;
     position: fixed;
 }
 
@@ -824,7 +824,7 @@ p:first-of-type {
 
 .footer-sub-menu3{
     position: relative;
-    left: 620px;
+    left: 612px;
     z-index: 110;
     line-height: 16px;
     width: 340px;
@@ -919,7 +919,7 @@ p:first-of-type {
 }
 
 .profile-section-header{
-    left: 150px;
+    left: 100px;
     position: relative;
     margin-top: 25px;
     padding-bottom: 1px;
@@ -985,6 +985,7 @@ p:first-of-type {
 .school{
     margin-left: 100px;
     margin-top: 25px;
+    width: 200px;
     float: left;
     position: relative;
 }
@@ -1008,6 +1009,9 @@ p:first-of-type {
     position: relative;
     clear: both;
     float: left;
+}
+.school-section-header2 h9{
+    display: inline;
 }
 
 .school-section-header2 span{
@@ -1093,7 +1097,8 @@ p:first-of-type {
 .social-links{
     position: relative;
     float: left;
-    margin-left: 300px;
+    margin-left: 200px;
+    width: 300px;
 }
 
 .links-section-header2{
@@ -1174,7 +1179,7 @@ p:first-of-type {
 
 .profile-location{
     position: relative;
-    left: 876px;
+    left: 868px;
     opacity: 1;
     clear: both;
     float: left;
