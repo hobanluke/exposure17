@@ -158,11 +158,12 @@
 }  
 .logo-menu img{
     left: 205px;
-    top: 182px;
+    top: 186px;
+    height: 27px
 }
 
 .logo-menu2 img{
-    left: 208px;
+    left: 200px;
     top: 216px;
     height: 27px;
 }    
@@ -787,6 +788,7 @@ p {
 .image-credit-homepage{
     left: 75px;
     width: 300px;
+    display: none;
 }   
 .landing-info-section{
     padding-bottom: 10px;
@@ -1144,6 +1146,7 @@ input[type=text] {
 .logo-menu2 img{
     left: 238px;
     top: 251px;
+    height: 35px
 }     
     
 h1 {
@@ -1715,6 +1718,7 @@ p {
 .image-credit-homepage{
     left: 75px;
     width: 300px;
+    display: none;
 }   
 .landing-info-section{
     padding-bottom: 10px;
@@ -2068,6 +2072,7 @@ input[type=text] {
 .logo-menu2 img{
     left: 278px;
     top: 281px;
+    height: 35px
 }   
     
 h1 {
@@ -2644,6 +2649,7 @@ p {
 .image-credit-homepage{
     left: 75px;
     width: 300px;
+    display: none;
 }   
 .landing-info-section{
     padding-bottom: 10px;
@@ -2830,7 +2836,11 @@ input[type=text] {
 }
 
 @media screen and (min-width: 801px) and (max-width: 1099px) {
-
+.image-credit-homepage{
+    left: 75px;
+    width: 300px;
+    display: none;
+}   
 .branding{
     margin-top: 150px;
     
@@ -2935,6 +2945,7 @@ input[type=text] {
 .logo-menu2 img{
     left: 156px;
     top: 348px;
+    height: 35px
 }   
 h1 {
     font-weight: 700;
@@ -3568,11 +3579,13 @@ input[type=text] {
 .logo-menu img{
     left: 320px;
     top: 310px;
+    height: 30px
 }
 
 .logo-menu2 img{
     left: 420px;
     top: 308px;
+    height: 35px
 }   
 h1 {
     font-weight: 700;
@@ -3997,7 +4010,7 @@ h8 {
 @media screen and (min-width: 1600px) and (max-width: 1899px) {
 .letterform-containter{
     margin-top: 250px;
-    height: 700px;
+    height: 750px;
 }      
 
 #e{
@@ -4020,25 +4033,25 @@ h8 {
 
 #s{
     width: 320px;
-    margin-top: 120px;
-    margin-left: -44px;
+    margin-top: 150px;
+    margin-left: -94px;
 }
 
 #u{
     width: 320px;
     margin-left: 116px;
-    margin-top: 120px;
+    margin-top: 150px;
 }
 #r{
     width: 320px;
-    margin-left: 97px;
-    margin-top: 120px;
+    margin-left: 127px;
+    margin-top: 150px;
 }
 
 #e2{
     width: 320px;
-    margin-top: 120px;
-    margin-left: -19px;
+    margin-top: 150px;
+    margin-left: 9px;
 }    
 .sub-menu-rule{
     left: -10000px;
@@ -4174,25 +4187,25 @@ h8 {
 
 #s{
     width: 350px;
-    margin-top: 150px;
-    margin-left: -63px;
+    margin-top: 200px;
+    margin-left: -93px;
 }
 
 #u{
     width: 350px;
-    margin-left: 155px;
-    margin-top: 150px;
+    margin-left: 165px;
+    margin-top: 200px;
 }
 #r{
     width: 350px;
-    margin-left: 173px;
-    margin-top: 150px;
+    margin-left: 183px;
+    margin-top: 200px;
 }
 
 #e2{
     width: 350px;
-    margin-top: 150px;
-    margin-left: 5px;
+    margin-top: 200px;
+    margin-left: 25px;
 }     
 .sub-menu-rule{
     left: -10000px;
@@ -4312,6 +4325,7 @@ h8 {
     width: 1700px;
 }      
 
+
 #e{
     width: 350px;
     margin-left: -75px;
@@ -4332,26 +4346,26 @@ h8 {
 
 #s{
     width: 350px;
-    margin-top: 150px;
-    margin-left: -63px;
+    margin-top: 200px;
+    margin-left: -93px;
 }
 
 #u{
     width: 350px;
-    margin-left: 155px;
-    margin-top: 150px;
+    margin-left: 165px;
+    margin-top: 200px;
 }
 #r{
     width: 350px;
-    margin-left: 173px;
-    margin-top: 150px;
+    margin-left: 183px;
+    margin-top: 200px;
 }
 
 #e2{
     width: 350px;
-    margin-top: 150px;
-    margin-left: 5px;
-}        
+    margin-top: 200px;
+    margin-left: 25px;
+}         
 .sub-menu-rule{
     left: -10000px;
     width: 1000000px;

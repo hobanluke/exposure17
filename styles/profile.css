@@ -626,15 +626,15 @@ p:first-of-type {
 }
 
 .logo-menu img{
-    height: 30px;
+    height: 40px;
     left: 417px;
     top: 330px;
     position: fixed;
 }
 
 .logo-menu2 img{
-    height: 35px;
-    left: 520px;
+    height: 45px;
+    left: 540px;
     top: 328px;
     position: fixed;
 }
@@ -869,7 +869,7 @@ p:first-of-type {
 }
 
 .logo-footer img{
-    height: 30px;
+    height: 35px;
     left: 503px;
     top: 75px;
     position: relative;
@@ -877,11 +877,12 @@ p:first-of-type {
 }
 
 .logo-footer2 img{
-    height: 35px;
+    height: 30px;
     left: 510px;
     top: 73px;
     float: left;
     position: relative;
+    opacity: 0;
 }
 
 /*Profile*/
